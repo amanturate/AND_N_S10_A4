@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\Acadgild Content\\Code\\Session- 13\\ACD_AN_Session_13_Code\\ACD_AN_Session_13_Code\\ActionBar2\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "D:\\Acadgild Content\\Code\\Session- 13\\ACD_AN_Session_13_Code\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\ACADGILD\\ANDROID NEW\\10\\Navigation_tabs\\ActionBar2\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\ACADGILD\\ANDROID NEW\\10\\Navigation_tabs\\ActionBar2\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

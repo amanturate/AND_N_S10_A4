@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "D:\\Acadgild Content\\Code\\Session- 13\\ACD_AN_Session_13_Code\\ACD_AN_Session_13_Code\\ActionBar2\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "D:\\Acadgild Content\\Code\\Session- 13\\ACD_AN_Session_13_Code\\ACD_AN_Session_13_Code\\ActionBar2\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\ACADGILD\\ANDROID NEW\\10\\Navigation_tabs\\ActionBar2\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\ACADGILD\\ANDROID NEW\\10\\Navigation_tabs\\ActionBar2\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    }
+]
